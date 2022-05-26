@@ -11,7 +11,10 @@ namespace JSON_Inventory_Management
         public static void Main()
         {
             inventoryManagement json = new inventoryManagement();
-            json.group(@"D:\Bridgelabz\.Net\Address-Book\JSON Inventory Management\JSON Inventory Management\Inventory.json");
+            json.group(@"D:\Bridgelabz\.Net\Object_Oriented_Programs\JSON Inventory Management\JSON Inventory Management\Inventory.json");
+
+            //stockManagement manage = new stockManagement();
+            //manage.convert(@"D:\Bridgelabz\.Net\Object_Oriented_Programs\JSON Inventory Management\JSON Inventory Management\syock.json");
         }
     }
 }

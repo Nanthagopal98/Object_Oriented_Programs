@@ -1,0 +1,17 @@
+[
+  {
+    "stockNames": "Apple Stock",
+    "numberOfShare": "25000",
+    "sharePrice": "1000"
+  },
+  {
+    "stockNames": "Google Stock",
+    "numberOfShare": "50000",
+    "sharePrice": "2000"
+  },
+  {
+    "stockNames": "Amazon Stock ",
+    "numberOfShare": "48000",
+    "sharePrice": "1566"
+  }
+]
